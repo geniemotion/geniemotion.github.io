@@ -1,0 +1,10 @@
+numpy
+scipy
+torch
+gpytorch
+open3d
+opencv-python
+matplotlib
+pillow
+tqdm
+shutup
